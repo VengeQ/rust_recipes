@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rust-pilib/rust-pilib.iml" filepath="$PROJECT_DIR$/rust-pilib/rust-pilib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rust_example.iml" filepath="$PROJECT_DIR$/rust_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharing-ownership/sharing-ownership.iml" filepath="$PROJECT_DIR$/sharing-ownership/sharing-ownership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/traits/traits.iml" filepath="$PROJECT_DIR$/traits/traits.iml" />
+    </modules>
+  </component>
+</project>
