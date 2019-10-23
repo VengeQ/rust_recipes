@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ffi/ffi.iml" filepath="$PROJECT_DIR$/ffi/ffi.iml" />
       <module fileurl="file://$PROJECT_DIR$/macroses/macroses.iml" filepath="$PROJECT_DIR$/macroses/macroses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical/practical.iml" filepath="$PROJECT_DIR$/practical/practical.iml" />
       <module fileurl="file://$PROJECT_DIR$/rust-pilib/rust-pilib.iml" filepath="$PROJECT_DIR$/rust-pilib/rust-pilib.iml" />
       <module fileurl="file://$PROJECT_DIR$/rust_example.iml" filepath="$PROJECT_DIR$/rust_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharing-ownership/sharing-ownership.iml" filepath="$PROJECT_DIR$/sharing-ownership/sharing-ownership.iml" />
